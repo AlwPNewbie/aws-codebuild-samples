@@ -4,7 +4,7 @@ env:
     LOGIN: prod/sonar:SONARCLOUD_TOKEN
     HOST: prod/sonar:HOST
     Organization: prod/sonar:NCS Sample Project
-    Project: prod/sonar:Project
+    Project: prod/sonar:NCS Sonar Cloud
 phases:
   install:
     runtime-versions:
