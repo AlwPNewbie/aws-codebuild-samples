@@ -9,7 +9,7 @@ phases:
   install:
     runtime-versions:
       java: openjdk8
-commands:
+    commands:
       - npm install
   pre_build:
     commands:
