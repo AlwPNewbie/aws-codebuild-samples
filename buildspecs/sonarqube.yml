@@ -2,8 +2,7 @@ version: 0.2
 
 env:
   parameter-store:
-    SONARQUBE_TOKEN: "SonarQubeToken"
-    SONARQUBE_ENDPOINT: "SonarQubeEndpoint"
+    SONARQUBE_TOKEN: "sqp_6cc25ab2e332f0f5db98eb3a1d6d4a54151d2398"
 
 phases:
   install:
